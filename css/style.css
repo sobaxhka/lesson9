@@ -1,0 +1,31 @@
+ :root
+.header-class{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+}
+.a-class{
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-style: bold;
+}
+.main-class{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+}
+.ul-class{
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+}
+.li-class{
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.h5-class{
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-style: bold;
+}
