@@ -1,4 +1,24 @@
- :root
+ :root{
+        --first-color:#212121;
+        --second-color:#757575;
+        --third-color:#FFFFFF;
+        --decorative-color:#2196F3;
+ }
+ .header-class{
+        background-color:#FFFFFF;
+ }
+ .main-class{
+        background-color:#2F303A;
+ }
+ .section-class{
+        background-color:#FFFFFF;
+ }
+ .class-section{
+        background-color:#F5F4FA;
+ }
+.footer-class{
+        background-color: #2F303A;
+}
 .header-class{
         font-family: "Roboto", sans-serif;
         font-weight: 700;
